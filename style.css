@@ -688,5 +688,8 @@ footer span a:hover{
 .card-link .card {
     cursor: pointer;
 }
+img {
+    display: block !important;
+}
 
 
